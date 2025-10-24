@@ -65,16 +65,7 @@
 
 ---
 
-### 🐍 Contribution Snake  
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Anant-0705/Anant-0705/output/snake.svg" alt="Snake animation" />
-
-</p>
-
----
 
 
----
 
 <h3 align="center">✨ Building tech with creativity — one project at a time.</h3>
