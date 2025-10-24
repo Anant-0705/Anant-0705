@@ -68,7 +68,8 @@
 ### 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anant-0705/anant-0705/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Anant-0705/Anant-0705/output/snake.svg" alt="Snake animation" />
+
 </p>
 
 ---
