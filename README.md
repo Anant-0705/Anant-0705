@@ -46,14 +46,25 @@
 
 ### 📊 GitHub Stats  
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anant-0705&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=anant-0705&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anant-0705&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Anant's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anant-0705&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anant-0705&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anant-0705&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anant-0705&theme=onedark&no-frame=true&no-bg=true&margin-w=5" alt="trophies"/>
+</p>
+
 
 
 
