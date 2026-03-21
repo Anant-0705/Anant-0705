@@ -1,73 +1,197 @@
-<h1 align="center">Hi 👋, I'm Anant Singhal</h1>
-<h3 align="center">🚀 A Passionate Full-Stack & AI/ML Developer from India</h3>
+<h1 align="center">Anant Singhal</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anant-0705&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://twitter.com/singhal_an69209" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/singhal_an69209?logo=twitter&style=flat" alt="Twitter Follow" />
-  </a>
+Full-Stack Developer • DevOps Engineer • Product Builder
+</p>
+
+<p align="center">
+<a href="mailto:anantsinghal2134@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/anant-singhal01/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-black?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://x.com/singhal_an69209">
+<img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x">
+</a>
 </p>
 
 ---
 
-### 🧠 About Me  
+## About Me
 
-- 🌱 I’m currently learning **Three.js** and **Machine Learning**  
-- 💻 Skilled in **Frontend and Backend**  
--🔭 Currently building **scalable web apps** and products with modern tech stacks  
-- 📫 Reach me at **anantsinghal2134@gmail.com**  
-- ⚡ Fun fact: I blend creativity with tech — from **digital collectibles** to **real-world wooden products**!  
+I build scalable SaaS platforms, distributed systems, and production-ready web applications. My work focuses on backend architecture, DevOps infrastructure, and modern frontend systems.
 
----
+Currently working on real-world products involving microservices, containerized deployments, and performance-driven systems.
 
-### 🌐 Connect With Me  
+**Current Focus**
 
-<p align="left">
-  <a href="https://twitter.com/singhal_an69209" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anant-singhal-a75629328/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:anantsinghal2134@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
-  </a>
-</p>
+- Full-stack SaaS development  
+- DevOps and containerized infrastructure  
+- Distributed systems and microservices  
+- 3D web applications using Three.js  
+- Startup-oriented product engineering  
 
 ---
 
-### 🧰 Languages and Tools  
+# Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,ts,mongodb,postgres,mysql,java,python,linux,git,github,vscode,figma" />
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+Three.js • Framer Motion  
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+JWT Authentication • Google OAuth  
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase" />
+</p>
+
+Prisma ORM  
+
+---
+
+## DevOps & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,redis,githubactions,vercel,linux" />
+</p>
+
+Docker Compose • RabbitMQ • MinIO • Elasticsearch  
+
+---
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+# Featured Projects
 
+## Dustbill — Freelance Business Management SaaS
 
+Production-ready SaaS platform built to help freelancers manage clients, invoices, and contracts in one system.
+
+**Key Features**
+
+- Client and contract management  
+- Automated invoice workflows  
+- Email notifications  
+- Revenue analytics dashboard  
+- JWT and Google OAuth authentication  
+- Razorpay payment integration  
+
+**Stack**
+
+Next.js • Node.js • MongoDB • Prisma • Razorpay  
+
+**Live**
+
+https://dustbill.com  
+
+**Repository**
+
+https://github.com/Anant-0705/DustBill  
+
+---
+
+## PlayReel — WebAssembly Game Discovery Platform
+
+Microservices-based vertical-scroll platform where users discover and play WebAssembly games.
+
+Built with scalable architecture using message queues, caching layers, and distributed services.
+
+**Stack**
+
+React • Vite • PostgreSQL • Redis • RabbitMQ • MinIO • Elasticsearch • Docker • Nginx  
+
+**Repository**
+
+https://github.com/Anant-0705/PlayReel  
+
+Status: Active Development  
+
+---
+
+## Karya — Task and Productivity Platform
+
+All-in-one productivity platform for managing workflows, tasks, and reminders.
+
+**Stack**
+
+Next.js • PostgreSQL • Prisma • NextAuth  
+
+**Live**
+
+https://www.arogyaherb.store/
+
+**Repository**
+
+https://github.com/Anant-0705/Karya  
+
+---
+
+# Achievements
+
+- 3x Hackathon Winner  
+- Top 7 — Sphinx Hackathon, MNIT Jaipur  
+- Organizer — PortXfolio Hackathon  
+
+---
+
+# GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anant-0705&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Anant's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anant-0705&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=anant-0705&show_icons=true&hide_border=true" 
+height="170" 
+/>
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=anant-0705&hide_border=true" 
+height="170" 
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anant-0705&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=anant-0705&layout=compact&hide_border=true" 
+height="170" 
+/>
+
 </p>
 
 ---
 
-### 🏆 GitHub Trophies  
+# Development Philosophy
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anant-0705&theme=onedark&no-frame=true&no-bg=true&margin-w=5" alt="trophies"/>
-</p>
-
-
-
-
-
-
-<h3 align="center">✨ Building tech with creativity — one project at a time.</h3>
+Just a developer working on a world changing idea.
