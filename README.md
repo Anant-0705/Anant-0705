@@ -18,9 +18,13 @@ Full-Stack Developer • DevOps Engineer • Product Builder
 </a>
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-black?style=for-the-badge&logo=amazonaws">
+</p>
+
 ---
 
-## About Me
+# About Me
 
 I build scalable SaaS platforms, distributed systems, and production-ready web applications. My work focuses on backend architecture, DevOps infrastructure, and modern frontend systems.
 
@@ -41,8 +45,10 @@ Currently working on real-world products involving microservices, containerized 
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
 </p>
+
+---
 
 ## Frontend
 
@@ -74,13 +80,15 @@ Prisma ORM
 
 ---
 
-## DevOps & Infrastructure
+## DevOps & Deployment
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,nginx,redis,githubactions,vercel,linux" />
 </p>
 
-Docker Compose • RabbitMQ • MinIO • Elasticsearch  
+Docker Compose • RabbitMQ • MinIO • Elasticsearch • Render • Railway • AWS  
+
+Learning: Kubernetes • Terraform • Prometheus • Grafana  
 
 ---
 
@@ -154,6 +162,14 @@ https://www.arogyaherb.store/
 **Repository**
 
 https://github.com/Anant-0705/Karya  
+
+---
+
+# Certifications
+
+AWS Certified Cloud Practitioner  
+
+AWS Certified Solutions Architect — Scheduled  
 
 ---
 
