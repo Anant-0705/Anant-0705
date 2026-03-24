@@ -30,7 +30,6 @@ Full-Stack Developer • DevOps Engineer • Building Scalable Systems
 <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,docker,nginx,redis,githubactions,aws,linux,git" />
 </p>
 
-Learning: Kubernetes • Terraform • Prometheus • Grafana  
 
 ---
 
